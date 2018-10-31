@@ -30,4 +30,4 @@ def trick2(num2):
 	# Subtract num from the answer
 	fans2 = num2 - ans2
 	# Return the final answer
-	return fans
+	return fans2
